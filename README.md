@@ -1,6 +1,6 @@
 # HackyHappy
 “A messy but happy playground for experimental code, scripts, and automation.”
-## One-Command Installation
+## “One-click launcher for a Groq-powered RAG AI stack with Docker, Ollama, and OpenWebUI”
 
 This project is designed to be installed and started using **a single script**.
 
