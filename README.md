@@ -1,4 +1,4 @@
-## 🚀 One-Click Install & Quick Download
+## 🚀“One-click launcher for a Groq-powered RAG AI stack with Docker, Ollama, and OpenWebUI” 
 
 This project provides an **all-in-one auto-run script** that sets up and starts
 a complete **Groq-based RAG AI environment**.
