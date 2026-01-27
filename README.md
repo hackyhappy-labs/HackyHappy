@@ -18,6 +18,6 @@ No manual container setup is required.
 Download and run the script:
 
 ```bash
-curl -O https://raw.githubusercontent.com/사용자/HackyHappy/main/start-openwebui-with-rag-groq-final.sh
+curl -O https://raw.githubusercontent.com/ikjepak72/HackyHappy/main/start-openwebui-with-rag-groq-final.sh
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
