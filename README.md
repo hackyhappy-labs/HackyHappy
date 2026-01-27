@@ -1,23 +1,25 @@
-# HackyHappy
-“A messy but happy playground for experimental code, scripts, and automation.”
-## “One-click launcher for a Groq-powered RAG AI stack with Docker, Ollama, and OpenWebUI”
+## 🚀 One-Click Install & Quick Download
 
-This project is designed to be installed and started using **a single script**.
+This project provides an **all-in-one auto-run script** that sets up and starts
+a complete **Groq-based RAG AI environment**.
 
-The script below automatically:
-- Sets up Docker-based services
-- Starts Qdrant (vector database)
-- Connects Ollama for model management
-- Configures Groq-based RAG
-- Launches OpenWebUI
+With a single script, it will:
+- Start Docker services
+- Launch Qdrant (vector database)
+- Connect Ollama for model management
+- Configure Groq-based RAG
+- Run OpenWebUI automatically
 
-No manual container setup is required.
+No manual Docker or service setup is required.
 
-### Quick Start
+---
 
-Download and run the script:
+### Option 1: One-Command Install (Recommended)
+
+Download and run the script directly:
 
 ```bash
 curl -O https://raw.githubusercontent.com/ikjepak72/HackyHappy/main/start-openwebui-with-rag-groq-final.sh
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
+
