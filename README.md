@@ -3,7 +3,7 @@
 **One-click auto-run script for a Groq-powered RAG AI environment**
 
 This repository provides a **one-touch automation script** that sets up and runs a complete  
-**Groq + RAG + Docker + Ollama + OpenWebUI** AI environment.
+**Groq + RAG + Docker + Ollama +  Qdrant+OpenWebUI** AI environment.
 
 No complex manual setup.  
 Just run one script and start using your AI stack.
