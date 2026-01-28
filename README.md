@@ -52,6 +52,9 @@ Before running the script, make sure you have:
 
 ## 🔑 Groq API Key Setup
 
+(Optional) Groq API Key  
+Get your API key from: https://console.groq.com/keys
+
 The generated `.env` file is located in the project directory.  
 The script will automatically create the `.env` file; if it does not exist, please create it manually.
 
