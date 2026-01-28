@@ -52,10 +52,10 @@ Before running the script, make sure you have:
 
 ## 🔑 Groq API Key Setup
 
-```markdown
-The script will automatically create a `.env` file in the project directory if it does not exist.
+The generated `.env` file is located in the project directory.  
+The script will automatically create the `.env` file; if it does not exist, please create it manually.
 
-```bash
+```env
 GROQ_API_KEY=your_groq_api_key_here
 
 🛠 Installation & Usage
