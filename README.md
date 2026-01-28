@@ -43,7 +43,8 @@ Before running the script, make sure you have:
 - Docker
 - Docker Compose
 - Bash
-- Groq API Key
+- Groq API Key (Optional, for Groq-based RAG)
+
 
 > ⚠️ Windows users should use **WSL2 (Ubuntu recommended)**
 
@@ -55,17 +56,21 @@ Create a `.env` file in the project directory:
 
 ```bash
 GROQ_API_KEY=your_groq_api_key_here
+⚠️ Do NOT commit this file to GitHub.
 
+🛠 Installation & Usage
+Option 1: One-Click Install (Recommended)
 curl -O https://raw.githubusercontent.com/ikjepak72/HackyHappy/main/start-openwebui-with-rag-groq-final.sh
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
-
+Option 2: Clone Repository
 git clone https://github.com/ikjepak72/HackyHappy.git
 cd HackyHappy
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
-
+🌐 Access OpenWebUI
 http://localhost:3000
+
 
 
 
