@@ -72,9 +72,9 @@ cd HackyHappy
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
 🌐 Access OpenWebUI
-http://localhost:3000
-http://localhost:8000/docs
-http://localhost:6333/dashboard
+OpenWebUI: http://localhost:3000
+RAG API Documentation: http://localhost:8000/docs
+Database Dashboard (Qdrant): http://localhost:6333/dashboard
 
 
 
