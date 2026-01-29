@@ -66,11 +66,13 @@ Option 1: One-Click Install (Recommended)
 curl -O https://raw.githubusercontent.com/hackyhappy-labs/HackyHappy/main/start-openwebui-with-rag-groq-final.sh
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
+
 Option 2: Clone Repository
 git clone https://github.com/hackyhappy-labs/HackyHappy.git
 cd HackyHappy
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
+
 🌐 Access OpenWebUI
 OpenWebUI: http://localhost:3000
 RAG API Documentation: http://localhost:8000/docs
