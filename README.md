@@ -63,16 +63,18 @@ GROQ_API_KEY=your_groq_api_key_here
 
 🛠 Installation & Usage
 Option 1: One-Click Install (Recommended)
-curl -O https://raw.githubusercontent.com/ikjepak72/HackyHappy/main/start-openwebui-with-rag-groq-final.sh
+curl -O https://raw.githubusercontent.com/hackyhappy-labs/HackyHappy/main/start-openwebui-with-rag-groq-final.sh
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
 Option 2: Clone Repository
-git clone https://github.com/ikjepak72/HackyHappy.git
+git clone https://github.com/hackyhappy-labs/HackyHappy.git
 cd HackyHappy
 chmod +x start-openwebui-with-rag-groq-final.sh
 ./start-openwebui-with-rag-groq-final.sh
 🌐 Access OpenWebUI
 http://localhost:3000
+http://localhost:8000/docs
+http://localhost:6333/dashboard
 
 
 
