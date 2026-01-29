@@ -78,6 +78,19 @@ OpenWebUI: http://localhost:3000
 RAG API Documentation: http://localhost:8000/docs
 Database Dashboard (Qdrant): http://localhost:6333/dashboard
 
+📚 How to Use RAG
+1️⃣ Upload a PDF
+curl -X POST http://localhost:8000/upload_pdf -F "file=@document.pdf"
+
+2️⃣ Use it in Open WebUI
+
+In the input box, type:
+
+@rag_search : Please search for [your keyword]
+
+3️⃣ Check RAG Service Status
+curl http://localhost:8000/health
+
 
 
 
