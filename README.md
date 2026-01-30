@@ -80,7 +80,8 @@ Database Dashboard (Qdrant): http://localhost:6333/dashboard
 
 📚 How to Use RAG
 1️⃣ Upload a PDF
-curl -X POST http://localhost:8000/upload_pdf -F "file=@document.pdf"
+curl -X POST http://localhost:8000/documents/upload \
+     -F "file=@document.pdf"
 
 2️⃣ Use it in Open WebUI
 
