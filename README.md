@@ -60,7 +60,6 @@ The script will automatically create the `.env` file; if it does not exist, plea
 
 ```env
 'GROQ_API_KEY=your_groq_api_key_here`
-```
 
 🛠 Installation & Usage
 Option 1: One-Click Install (Recommended)
