@@ -61,8 +61,10 @@ The Groq API key is optional. You may skip this step if it is not needed.
 If no key is entered within 1 minute after the prompt, it will be automatically skipped,
 and the script will proceed to the next step.
 
+
 The generated file is located in the project directory,
 and the script automatically creates the file.
+
 ```
 🛠 Installation & Usage
 Option 1: One-Click Install (Recommended)
