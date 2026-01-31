@@ -1,6 +1,6 @@
 # HackyHappy 😄
 
-**One-click auto-run script for a Groq-powered RAG AI environment**
+**One-click auto-run script for aOpenWebUI-powered RAG AI environment**
 
 This repository provides a **one-touch automation script** that sets up and runs a complete  
 **Groq + RAG + Docker + Ollama +  Qdrant + OpenWebUI** AI environment.
