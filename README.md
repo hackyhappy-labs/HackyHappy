@@ -59,7 +59,8 @@ The generated `.env` file is located in the project directory.
 The script will automatically create the `.env` file; if it does not exist, please create it manually.
 
 ```env
-GROQ_API_KEY=your_groq_api_key_here
+'GROQ_API_KEY=your_groq_api_key_here`
+```
 
 🛠 Installation & Usage
 Option 1: One-Click Install (Recommended)
