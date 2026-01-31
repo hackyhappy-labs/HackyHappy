@@ -53,6 +53,7 @@ Before running the script, make sure you have:
 ## 🔑 Groq API Key Setup
 
 (Optional) Groq API Key
+
 Obtain an API key from: https://console.groq.com/keys
 
 The Groq API key is optional. You may skip this step if it is not needed.
