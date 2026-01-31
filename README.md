@@ -17,7 +17,7 @@ With a single script, this project will automatically:
 - Start required Docker services
 - Launch **Qdrant** (vector database)
 - Connect **Ollama** for local model management
-- Configure **Groq-based RAG**
+- Configure *Ollama*-based RAG**
 - Run **OpenWebUI** for a ChatGPT-like web interface
 
 Designed for:
@@ -43,7 +43,7 @@ Before running the script, make sure you have:
 - Docker
 - Docker Compose
 - Bash
-- Groq API Key (Optional, for Groq-based RAG)
+- Groq API Key (Optional, for Ollama-based RAG)
 
 
 > ⚠️ Windows users should use **WSL2 (Ubuntu recommended)**
