@@ -50,20 +50,13 @@ Before running the script, make sure you have:
 
 ---
 
-## 🔑 Groq API Key Setup
-
-(Optional) Groq API Key
+🔑 (Optional) Groq API Key
 
 Obtain an API key from: https://console.groq.com/keys
 
-The Groq API key is optional. You may skip this step if it is not needed.
+The Groq API key is optional. You may skip this step if it is not needed. If no key is entered within 1 minute after the prompt, it will be automatically skipped, and the script will proceed to the next step.
 
-If no key is entered within 1 minute after the prompt, 
-it will be automatically skipped,
-and the script will proceed to the next step.
-
-The generated file is located in the project directory,
-and the script automatically creates the file.
+The generated file is located in the project directory, and the script automatically creates the file.
 
 ```
 🛠 Installation & Usage
