@@ -266,7 +266,7 @@ TWILIO_ACCOUNT_SID=$(read_secret "📞 Twilio Account SID 입력 (120초 내 Ent
 
 TWILIO_AUTH_TOKEN=$(read_secret "🔑 Twilio Auth Token 입력 (120초 내 Enter=건너뜀): " 120)
 
-read -t 120 -p "📱 Twilio 전화번호 입력 ex) +18023929721 (120초 내 Enter=건너뜀): " TWILIO_PHONE_NUMBER || true
+read -t 120 -p "📱 Twilio 전화번호 입력 ex) +18025550123  (120초 내 Enter=건너뜀): " TWILIO_PHONE_NUMBER || true
 TWILIO_PHONE_NUMBER=$(echo "$TWILIO_PHONE_NUMBER" | xargs)
 
 read -t 120 -p "📲 나의 실제 전화번호 입력 ex) +821012345678 (120초 내 Enter=건너뜀): " MY_PHONE_NUMBER || true
