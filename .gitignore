@@ -1,0 +1,39 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+.npm/
+.pnpm-store/
+
+# Build / generated files
+dist/
+build/
+.cache/
+.svelte-kit/
+.vite/
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Open WebUI runtime / local data
+backend/data/
+data/
+volumes/
